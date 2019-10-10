@@ -89,3 +89,9 @@ This is easy to grasp highly rated Python tutorial on Youtube. All concepts are 
 Website - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 [![Python for Beginners by Mosh Hamedani](https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+
+# The Awesome PLayList on Flutter
+
+It consists of talk & demo project on each & every topic in Flutter.
+
+website - https://github.com/PoojaB26/AwesomeFlutterPlaylist
