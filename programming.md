@@ -90,7 +90,7 @@ Website - https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
 [![Python for Beginners by Mosh Hamedani](https://user-images.githubusercontent.com/51238282/66454748-5e4afa00-ea86-11e9-92d6-feca19008f52.png)](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 
-# The Awesome PLayList on Flutter
+# The Awesome PlayList on Flutter
 
 It consists of talk & demo project on each & every topic in Flutter.
 
